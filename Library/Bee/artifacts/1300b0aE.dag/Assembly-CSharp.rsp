@@ -320,7 +320,7 @@
 -r:"F:/Unity/2021.2.0f1/Editor/Data/NetStandard/ref/2.1.0/netstandard.dll"
 -r:"F:/Unity/2021.2.0f1/Editor/Data/PlaybackEngines/AndroidPlayer/Unity.Android.Gradle.dll"
 -r:"F:/Unity/2021.2.0f1/Editor/Data/PlaybackEngines/AndroidPlayer/Unity.Android.Types.dll"
--r:"F:/Vivid Devs 2.0/Find The Toy/Library/PackageCache/com.unity.nuget.newtonsoft-json@2.0.0/Runtime/Newtonsoft.Json.dll"
+-r:"F:/Vivid Devs 2.0/Find-The-Toy/Library/PackageCache/com.unity.nuget.newtonsoft-json@2.0.0/Runtime/Newtonsoft.Json.dll"
 -r:"Library/Bee/artifacts/1300b0aE.dag/Unity.PlasticSCM.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aE.dag/Unity.Rider.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aE.dag/Unity.TextMeshPro.Editor.ref.dll"
@@ -333,6 +333,7 @@
 -r:"Library/Bee/artifacts/1300b0aE.dag/UnityEngine.UI.ref.dll"
 "Assets/Scripts/CameraMove.cs"
 "Assets/Scripts/ToyCam.cs"
+"Assets/Scripts/ToyPuzzle.cs"
 -langversion:9.0
 
 /deterministic
