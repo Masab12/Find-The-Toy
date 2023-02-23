@@ -356,8 +356,10 @@
 "Assets/Exernal/JMO Assets/Cartoon FX/Scripts/CFX_AutoRotate.cs"
 "Assets/Exernal/JMO Assets/Cartoon FX/Scripts/CFX_LightFlicker.cs"
 "Assets/Exernal/JMO Assets/Cartoon FX/Scripts/CFX_LightIntensityFade.cs"
+"Assets/Scripts/CameraController.cs"
 "Assets/Scripts/CameraMove.cs"
-"Assets/Scripts/ToyCam.cs"
+"Assets/Scripts/PieceScript.cs"
+"Assets/Scripts/PuzzleManager.cs"
 "Assets/Scripts/ToyPuzzle.cs"
 -langversion:9.0
 
